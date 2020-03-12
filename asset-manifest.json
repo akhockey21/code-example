@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/code-example/static/css/main.b03929cb.chunk.css",
+    "main.js": "/code-example/static/js/main.22ce60e0.chunk.js",
+    "main.js.map": "/code-example/static/js/main.22ce60e0.chunk.js.map",
+    "runtime-main.js": "/code-example/static/js/runtime-main.4c239874.js",
+    "runtime-main.js.map": "/code-example/static/js/runtime-main.4c239874.js.map",
+    "static/js/2.40c97775.chunk.js": "/code-example/static/js/2.40c97775.chunk.js",
+    "static/js/2.40c97775.chunk.js.map": "/code-example/static/js/2.40c97775.chunk.js.map",
+    "index.html": "/code-example/index.html",
+    "precache-manifest.ea7d20bcd75a37f30c3b35ff9c6a9d2b.js": "/code-example/precache-manifest.ea7d20bcd75a37f30c3b35ff9c6a9d2b.js",
+    "service-worker.js": "/code-example/service-worker.js",
+    "static/css/main.b03929cb.chunk.css.map": "/code-example/static/css/main.b03929cb.chunk.css.map",
+    "static/js/2.40c97775.chunk.js.LICENSE.txt": "/code-example/static/js/2.40c97775.chunk.js.LICENSE.txt",
+    "static/media/darktiles_bg_gike55.jpg": "/code-example/static/media/darktiles_bg_gike55.b29ffb46.jpg",
+    "static/media/wide_ggbridge_bg_teneax.jpg": "/code-example/static/media/wide_ggbridge_bg_teneax.3ab33e85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c239874.js",
+    "static/js/2.40c97775.chunk.js",
+    "static/css/main.b03929cb.chunk.css",
+    "static/js/main.22ce60e0.chunk.js"
+  ]
+}
